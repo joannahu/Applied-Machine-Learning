@@ -1,0 +1,7 @@
+﻿===========================================
+Task4
+===========================================
+
+.. automodule:: data_visualization
+    :members: 
+.. plot:: ./data_visualization.py

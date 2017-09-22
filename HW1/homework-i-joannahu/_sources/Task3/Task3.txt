@@ -1,0 +1,14 @@
+Task3
+===============================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 3
+
+
+
+.. automodule:: cal_mean_std
+    :members:
+
+

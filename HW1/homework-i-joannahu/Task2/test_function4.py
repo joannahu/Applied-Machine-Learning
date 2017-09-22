@@ -1,0 +1,1 @@
+from sklearn.datasets import load_irisfrom function4 import fun4def test_fun4():    iris = load_iris()    x = iris.data    y = iris.target    assert fun4(x,y) >=0.7
